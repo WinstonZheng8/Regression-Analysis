@@ -3,7 +3,7 @@ Used regression analysis to predict patient medical costs based on factors such 
 
 
 ## Here is a PDF showcasing details of our final project:
-[PDF of Final Project](final-writeup-group11-1.pdf).
+[PDF of Final Project](final-writeup-group11-1.pdf)
 
 
 ## Here is the slideshow of the final project:
