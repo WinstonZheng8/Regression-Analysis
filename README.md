@@ -1,5 +1,5 @@
 # Regression-Analysis
-Used regression analysis to predict patient medical costs based on factors such as Age, BMI, and Smoker status. Analysis by Winston Zheng, Isiah Montalvo, Trisha Agrawal, and Tristan Dull.
+Conducted regression analysis to forecast patient medical expenditures, leveraging variables such as Age, BMI, and Smoker status. The analysis was performed collaboratively by Winston Zheng, Isiah Montalvo, Trisha Agrawal, and Tristan Dull.
 
 
 ## Here is a PDF showcasing details of our final project:
